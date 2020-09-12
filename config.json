@@ -1,0 +1,15 @@
+{
+    "params":
+    {
+        "local_server":"True",
+        "local_url":"mysql://root:@localhost/clean-blog",
+        "prod_url":"mysql://root:@localhost/clean-blog",
+        "blog_head":"clean-blog",
+        "tag_line": "Heaven for programmers",
+        "fb_url":"https://facebook.com/clean-blog",
+        "tw_url":"https://twitter.com/clean-blog",
+        "git_url":"https://github.com/clean-blog",
+        "gmail-user":"achanta0406@gmail.com",
+        "gmail-password":"vaisharjun"
+    }
+}
